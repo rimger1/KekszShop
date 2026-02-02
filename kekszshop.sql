@@ -18,10 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Adatbázis: `kekszhop`
+-- Adatbázis: `kekszshop`
 --
-CREATE DATABASE IF NOT EXISTS `kekszhop` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_hungarian_ci;
-USE `kekszhop`;
+CREATE DATABASE IF NOT EXISTS `kekszshop` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_hungarian_ci;
+USE `kekszshop`;
 
 -- --------------------------------------------------------
 
