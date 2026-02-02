@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2026. Jan 29. 12:28
+-- Létrehozás ideje: 2026. Feb 02. 12:49
 -- Kiszolgáló verziója: 10.4.32-MariaDB
 -- PHP verzió: 8.2.12
 
@@ -18,8 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Adatbázis: `kekszshop`
+-- Adatbázis: `kekszhop`
 --
+CREATE DATABASE IF NOT EXISTS `kekszhop` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_hungarian_ci;
+USE `kekszhop`;
 
 -- --------------------------------------------------------
 
