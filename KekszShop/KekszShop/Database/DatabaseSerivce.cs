@@ -21,7 +21,6 @@ namespace AdatbazisTeszt.Database
                 using (MySqlConnection connection = new MySqlConnection(connectionString))
                 {
                     connection.Open();
-                    Console.WriteLine("Sikeres a csatlakozás!!");
                 }
             }
             catch (Exception ex)

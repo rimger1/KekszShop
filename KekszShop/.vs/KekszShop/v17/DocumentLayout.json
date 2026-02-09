@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KekszShop\\KekszShop\\",
+  "WorkspaceRootPath": "E:\\KekszShop\\KekszShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|d:\\kekszshop\\kekszshop\\kekszshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|solutionrelative:kekszshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|d:\\kekszshop\\kekszshop\\kekszshop\\database\\databaseserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|e:\\kekszshop\\kekszshop\\kekszshop\\database\\databaseserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|solutionrelative:kekszshop\\database\\databaseserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|d:\\kekszshop\\kekszshop\\kekszshop\\model\\termekek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|e:\\kekszshop\\kekszshop\\kekszshop\\model\\termekek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|solutionrelative:kekszshop\\model\\termekek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|e:\\kekszshop\\kekszshop\\kekszshop\\model\\felhasznalok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|solutionrelative:kekszshop\\model\\felhasznalok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|e:\\kekszshop\\kekszshop\\kekszshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|solutionrelative:kekszshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|e:\\kekszshop\\kekszshop\\kekszshop\\model\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193B7DA2-35DF-4E26-9C92-CC35164D63FE}|KekszShop\\KekszShop.csproj|solutionrelative:kekszshop\\model\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kategoria.cs",
+              "DocumentMoniker": "E:\\KekszShop\\KekszShop\\KekszShop\\Model\\Kategoria.cs",
+              "RelativeDocumentMoniker": "KekszShop\\Model\\Kategoria.cs",
+              "ToolTip": "E:\\KekszShop\\KekszShop\\KekszShop\\Model\\Kategoria.cs",
+              "RelativeToolTip": "KekszShop\\Model\\Kategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:22:08.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Felhasznalok.cs",
+              "DocumentMoniker": "E:\\KekszShop\\KekszShop\\KekszShop\\Model\\Felhasznalok.cs",
+              "RelativeDocumentMoniker": "KekszShop\\Model\\Felhasznalok.cs",
+              "ToolTip": "E:\\KekszShop\\KekszShop\\KekszShop\\Model\\Felhasznalok.cs",
+              "RelativeToolTip": "KekszShop\\Model\\Felhasznalok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:20:43.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Termekek.cs",
-              "DocumentMoniker": "D:\\KekszShop\\KekszShop\\KekszShop\\Model\\Termekek.cs",
+              "DocumentMoniker": "E:\\KekszShop\\KekszShop\\KekszShop\\Model\\Termekek.cs",
               "RelativeDocumentMoniker": "KekszShop\\Model\\Termekek.cs",
-              "ToolTip": "D:\\KekszShop\\KekszShop\\KekszShop\\Model\\Termekek.cs",
+              "ToolTip": "E:\\KekszShop\\KekszShop\\KekszShop\\Model\\Termekek.cs",
               "RelativeToolTip": "KekszShop\\Model\\Termekek.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T11:12:17.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\KekszShop\\KekszShop\\KekszShop\\Program.cs",
+              "DocumentMoniker": "E:\\KekszShop\\KekszShop\\KekszShop\\Program.cs",
               "RelativeDocumentMoniker": "KekszShop\\Program.cs",
-              "ToolTip": "D:\\KekszShop\\KekszShop\\KekszShop\\Program.cs",
+              "ToolTip": "E:\\KekszShop\\KekszShop\\KekszShop\\Program.cs",
               "RelativeToolTip": "KekszShop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwE0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T10:54:44.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DatabaseSerivce.cs",
-              "DocumentMoniker": "D:\\KekszShop\\KekszShop\\KekszShop\\Database\\DatabaseSerivce.cs",
+              "DocumentMoniker": "E:\\KekszShop\\KekszShop\\KekszShop\\Database\\DatabaseSerivce.cs",
               "RelativeDocumentMoniker": "KekszShop\\Database\\DatabaseSerivce.cs",
-              "ToolTip": "D:\\KekszShop\\KekszShop\\KekszShop\\Database\\DatabaseSerivce.cs",
+              "ToolTip": "E:\\KekszShop\\KekszShop\\KekszShop\\Database\\DatabaseSerivce.cs",
               "RelativeToolTip": "KekszShop\\Database\\DatabaseSerivce.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T10:54:50.326Z",
               "EditorCaption": ""
