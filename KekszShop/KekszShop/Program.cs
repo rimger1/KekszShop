@@ -111,7 +111,8 @@ internal class Program
                 }
                 else if (key == ConsoleKey.Escape)
                 {
-                    break;
+                    termekMenu = false;
+                    termekIdx = 0;
                 }
             }
             else
@@ -136,28 +137,35 @@ internal class Program
                     if (termekIdx >= valasztottKat.Count) termekIdx = 0;
                 }
                 else if (key == ConsoleKey.Enter)
-                {
-                    var termek = valasztottKat[termekIdx];
-                    Console.Clear();
 
+                {
+
+                    var termek = valasztottKat[termekIdx];
+
+                    Console.Clear();
                     Console.WriteLine("TERMÉK ADATAI");
                     Uresorok(1);
                     Console.WriteLine($"Név: {termek.Nev}");
                     Console.WriteLine($"Ár: {termek.Ar} Ft");
                     Console.WriteLine($"Leírás: {termek.Leiras}");
-                    Console.WriteLine($"Tüzesség: {termek.Tuzesseg}");
-
                     Uresorok(1);
-                    Console.WriteLine("Vissza (esc)");
-                    Console.ReadKey(true);
+                    Console.WriteLine("ENTER = mentés CSV-be");
+                    Console.WriteLine("ESC = vissza");
+
+                    var detailKey = Console.ReadKey(true).Key;
+
+                    if (detailKey == ConsoleKey.Enter)
+                    {
+                        Rendeles.TermekCsvbeIras(termek);
+                        Console.WriteLine("\nMentve CSV-be!");
+                        Console.ReadKey(true);
+                    }
                 }
-                else if (key == ConsoleKey.Escape)
-                {
-                    termekMenu = false;
-                }
+
+
             }
         }
-}
+    }
 
     private static void Uresorok(int v)
     {
@@ -225,74 +233,3 @@ internal class Program
         DatabaseService.DbConnectionCheck(connectionString);
     }
 }
-
-
-
-
-
-
-/*
-using System;
-using System.Collections.Generic;
- 
-class Program
-{
-    static void Main()
-    {
-        Dictionary<string, List<string>> categories = new Dictionary<string, List<string>>()
-        {
-            { "Ital", new List<string> { "Víz", "Kóla", "Sör" } },
-            { "Étel", new List<string> { "Pizza", "Burger", "Saláta" } },
-            { "Elektronika", new List<string> { "Laptop", "Telefon", "Fülhallgató" } }
-        };
-
-        List<string> categoryList = new List<string>(categories.Keys);
-        int selectedIndex = 0;
-
-        while (true)
-        {
-            Console.Clear();
-            Console.WriteLine("Válassz egy kategóriát (nyilakkal, Enter a kiválasztáshoz, Esc a kilépéshez):\n");
-
-            // Menüpontok kiírása
-            for (int i = 0; i < categoryList.Count; i++)
-            {
-                if (i == selectedIndex)
-                    Console.WriteLine($"> {categoryList[i]}"); // kijelölt
-                else
-                    Console.WriteLine($"  {categoryList[i]}");
-            }
-KESZ
-
-            // Billentyű olvasása
-            var key = Console.ReadKey(true).Key;
-
-            if (key == ConsoleKey.UpArrow)
-            {
-                selectedIndex--;
-                if (selectedIndex < 0) selectedIndex = categoryList.Count - 1;
-            }
-            else if (key == ConsoleKey.DownArrow)
-            {
-                selectedIndex++;
-                if (selectedIndex >= categoryList.Count) selectedIndex = 0;
-            }
-            else if (key == ConsoleKey.Enter)
-            {
-                Console.Clear();
-                string chosenCategory = categoryList[selectedIndex];
-                Console.WriteLine($"A(z) {chosenCategory} kategória termékei:\n");
-                foreach (var product in categories[chosenCategory])
-                {
-                    Console.WriteLine("- " + product);
-                }
-                Console.WriteLine("\nNyomj egy gombot a visszatéréshez a menübe...");
-                Console.ReadKey();
-            }
-            else if (key == ConsoleKey.Escape)
-            {
-                break; // kilépés
-            }
-        }
-    }
-}*/
