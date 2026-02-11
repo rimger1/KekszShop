@@ -161,6 +161,12 @@ internal class Program
                         Console.ReadKey(true);
                     }
                 }
+                else if (key == ConsoleKey.Escape)
+                {
+                    termekMenu = false;
+                    termekIdx = 0;
+                }
+
 
 
             }

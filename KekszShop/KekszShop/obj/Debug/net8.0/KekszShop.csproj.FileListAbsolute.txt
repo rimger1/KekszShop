@@ -58,3 +58,23 @@ C:\Users\rimog\Desktop\projektek\_12\KekszShop\KekszShop\KekszShop\obj\Debug\net
 C:\Users\rimog\Desktop\projektek\_12\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.pdb
 C:\Users\rimog\Desktop\projektek\_12\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.genruntimeconfig.cache
 C:\Users\rimog\Desktop\projektek\_12\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\ref\KekszShop.dll
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\bin\Debug\net8.0\KekszShop.exe
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\bin\Debug\net8.0\KekszShop.deps.json
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\bin\Debug\net8.0\KekszShop.runtimeconfig.json
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\bin\Debug\net8.0\KekszShop.dll
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\bin\Debug\net8.0\KekszShop.pdb
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.csproj.AssemblyReference.cache
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.AssemblyInfoInputs.cache
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.AssemblyInfo.cs
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.csproj.CoreCompileInputs.cache
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.sourcelink.json
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.csproj.Up2Date
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.dll
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\refint\KekszShop.dll
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.pdb
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\KekszShop.genruntimeconfig.cache
+C:\Users\rimoczigergo\Desktop\Új mappa\KekszShop\KekszShop\KekszShop\obj\Debug\net8.0\ref\KekszShop.dll

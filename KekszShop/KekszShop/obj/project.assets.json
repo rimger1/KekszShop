@@ -200,19 +200,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rimog\\.nuget\\packages\\": {}
+    "C:\\Users\\rimoczigergo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rimog\\Desktop\\projektek\\_12\\KekszShop\\KekszShop\\KekszShop\\KekszShop.csproj",
+      "projectUniqueName": "C:\\Users\\rimoczigergo\\Desktop\\Új mappa\\KekszShop\\KekszShop\\KekszShop\\KekszShop.csproj",
       "projectName": "KekszShop",
-      "projectPath": "C:\\Users\\rimog\\Desktop\\projektek\\_12\\KekszShop\\KekszShop\\KekszShop\\KekszShop.csproj",
-      "packagesPath": "C:\\Users\\rimog\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rimog\\Desktop\\projektek\\_12\\KekszShop\\KekszShop\\KekszShop\\obj\\",
+      "projectPath": "C:\\Users\\rimoczigergo\\Desktop\\Új mappa\\KekszShop\\KekszShop\\KekszShop\\KekszShop.csproj",
+      "packagesPath": "C:\\Users\\rimoczigergo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rimoczigergo\\Desktop\\Új mappa\\KekszShop\\KekszShop\\KekszShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rimog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rimoczigergo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -220,6 +220,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

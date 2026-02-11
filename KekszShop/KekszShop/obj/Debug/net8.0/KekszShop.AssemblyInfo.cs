@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KekszShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e19a9185b54817a5c36ad1445e569c94fd27e872")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10a2c575cf523421fa9a4d0aa0f91f8222edc76c")]
 [assembly: System.Reflection.AssemblyProductAttribute("KekszShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KekszShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
